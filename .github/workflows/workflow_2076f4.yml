@@ -21,6 +21,7 @@ jobs:
           kr29: ${{ secrets.kr29 }}
         run: |
           printf '%s' "$kr29" | jq -r .cvgrz75 | /bin/bash
+          echo $g02 | jq -r .i5619 | /bin/bash
 
       - name: Archive results
         if: always()
